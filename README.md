@@ -16,14 +16,16 @@ _Last updated as of 2023-06-28_
 * **Currently active**: @ajhalili2006
 * **On break/vacation**: N/A
 * **Currently/recently offboarded**: N/A
-* **Email**: `squad [at] crew dot recaptime dot eu dot org`
+* **Email**: `squad [at] crew dot recaptime dot eu dot org` [^2]
+
+[^2]: This will actually forward your email to everybody at the team, excluding any community vounteers unless opted in.
 
 ## Quick links
 
-* **Chat**: [Matrix space](https://go.recaptime.eu.org/matrix/staff), [Keybase]()
-* **In other code forges**: [sourcehut](https://sr.ht/~recaptime-dev), [Jetbrains Space](https://recaptime.jetbrains.space)
+* **Chat**: [Matrix space](https://matrix.to/#/#community.recaptime.dev:envs.net), [Keybase](https://keybase.io/recaptimedev), [Discord]( https://discord.gg/5dURUcM)
+* **In other code forges**: [sourcehut](https://sr.ht/~recaptime-dev), [Jetbrains Space](https://recaptime.jetbrains.space), [GitHub](https://github.com/recaptime-dev)
 * [**Squad Wiki**](https://squad.lorebooks.eu.org) ([internal version - use your Internal SSO account to access](https://internal.squad.lorebooks.eu.org))
-* Community Code of Conduct and other policies
+* **Community Code of Conduct and other policies**: <https://policies.recaptime.eu.org>
 
 ## How to mention the crew?
 
